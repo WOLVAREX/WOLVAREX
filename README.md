@@ -91,18 +91,26 @@ I operate at the intersection of **automation engineering**, **backend infrastru
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
+  <a href="https://github.com/WOLFTECH-254?tab=followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/WOLFTECH-254?color=00ff00&style=flat-square&labelColor=000000">
+  </a>
+  &nbsp;
+  <img title="Profile Views" src="https://komarev.com/ghpvc/?username=WOLFTECH-254&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WOLFTECH-254&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&hide_rank=false" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=6&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="420" src="https://streak-stats.demolab.com?user=WOLFTECH-254&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats">
 </p>
 
 ---
