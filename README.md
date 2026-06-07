@@ -18,6 +18,10 @@
 
 ## 👤 Who I Am
 
+<p align="center">
+  <img src="https://i.ibb.co/PGzQmvLf/silentwolf.jpg" alt="Briton Kiplangat — WOLFTECH-254" width="150" style="border-radius: 50%;" />
+</p>
+
 I'm **Briton Kiplangat** — founder of **WOLF TECH Kenya** and a self-taught full-stack engineer who turns curiosity into creation. I build production-grade **SaaS products**, **open-source developer tools**, **REST APIs**, and **automation systems** — shipped and running at scale across Africa.
 
 I don't build side projects. I build **products**: uptime monitors, hosting platforms, public APIs, bot frameworks, and infrastructure tooling — all deployed, live, and used by real developers.
@@ -89,10 +93,10 @@ A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-u
 
 ---
 
-### 🌐 wolfXapis Multi API Hub
+### 🌐 xwolf.space API Hub
 > **Live at:** [apis.xwolf.space](https://apis.xwolf.space)
 
-A **developer API portal** hosting multiple free endpoints(900+ Endpoints) for use in projects across the stack. Includes the Spotify data API, utility endpoints, and more — designed to reduce friction for developers who need reliable data sources without API key management.
+A **developer API portal** hosting multiple free public endpoints for use in projects across the stack. Includes the Spotify data API, utility endpoints, and more — designed to reduce friction for developers who need reliable data sources without API key management.
 
 **Built for:** African developers · open-source projects · rapid prototyping
 
