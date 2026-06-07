@@ -131,10 +131,6 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
@@ -180,6 +176,10 @@ I operate at the intersection of **product engineering**, **API infrastructure**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WOLFTECH-254&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🔍 About WOLF TECH Kenya
@@ -191,6 +191,7 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 | Product | URL | Description |
 |---|---|---|
 | 🐺 wolfXnode | [host.xwolf.space](https://host.xwolf.space) | Node.js app hosting platform |
+| 🤖 WOLFBOT | [pair.xwolf.space](https://pair.xwolf.space) | WhatsApp bot pairing site |
 | 📡 wolfXmonitor | [monitor.xwolf.space](https://monitor.xwolf.space) | Uptime monitoring SaaS |
 | 🎵 wolfXspotify | [spotify.xwolf.space](https://spotify.xwolf.space) | Free Spotify music data API |
 | 🌐 xwolf APIs | [apis.xwolf.space](https://apis.xwolf.space) | Public developer API hub |
@@ -223,6 +224,10 @@ If you're building something real and need an engineer who ships — let's talk.
 <p align="center">
   <a href="https://host.xwolf.space">
     <img src="https://img.shields.io/badge/wolfXnode%20Hosting-host.xwolf.space-00ff00?style=flat-square&logo=google-chrome&logoColor=00ff00&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://pair.xwolf.space">
+    <img src="https://img.shields.io/badge/🐺%20WOLFBOT-pair.xwolf.space-00ff00?style=flat-square&logo=whatsapp&logoColor=00ff00&labelColor=000000" />
   </a>
   &nbsp;
   <a href="https://monitor.xwolf.space">
