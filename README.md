@@ -35,7 +35,31 @@ I don't build side projects. I build **products**: uptime monitors, hosting plat
 
 ## 🚀 Products & Projects
 
-### 🐺 [wolfXmonitor](https://github.com/WOLFTECH-254/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
+### ☁️ wolfXnode — Heroku-Style Node.js Hosting Platform
+> **Live at:** [host.xwolf.space](https://host.xwolf.space)
+
+A **fully custom cloud hosting platform** built for Node.js applications — specifically designed around the needs of WhatsApp bot developers and automation engineers in Africa. Deploy, manage, and scale apps without touching raw VPS configuration. Native **M-Pesa payment integration** for African users.
+
+**Stack:** Node.js · Linux / VPS · Nginx · PM2 · M-Pesa  
+**Focus:** PaaS architecture · billing systems · infrastructure automation
+
+---
+
+### 🐺 [silentwolf](https://github.com/WOLFTECH-254/silentwolf) — WOLFBOT / Silent Wolf WhatsApp Automation Framework
+> **Pair site:** [pair.xwolf.space](https://pair.xwolf.space)
+
+A production-grade, open-source **WhatsApp automation framework** built on Node.js and Baileys. Modular, extensible, and community-ready — with 200+ commands covering AI assistants, group management, media downloaders, and games. Actively deployed across developer communities throughout Africa with 100+ forks.
+
+**Stack:** Node.js · Baileys · JavaScript · SQLite  
+**Traction:** ⭐ 86 stars · 🍴 112 forks · active deployments across Africa
+
+<p align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+</p>
+
+---
+
+### 📡 [wolfXmonitor](https://github.com/WOLFTECH-254/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
 > **Live at:** [monitor.xwolf.space](https://monitor.xwolf.space)
 
 A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot, built in Kenya. Real-time health checks for websites and APIs, instant email alerts on downtime, and beautiful **public status pages** — all with Free and Pro plans powered by **Paystack + M-Pesa**.
@@ -65,36 +89,12 @@ A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-u
 
 ---
 
-### ☁️ wolfXnode — Heroku-Style Bot Hosting Platform
-> **Live at:** [host.xwolf.space](https://host.xwolf.space)
-
-A **fully custom cloud hosting platform** built for Node.js applications — specifically designed around the needs of WhatsApp bot developers and automation engineers in Africa. Deploy, manage, and scale bots without touching raw VPS configuration. Native **M-Pesa payment integration** for African users.
-
-**Stack:** Node.js · Linux / VPS · Nginx · PM2 · M-Pesa  
-**Focus:** PaaS architecture · billing systems · infrastructure automation
-
----
-
 ### 🌐 xwolf.space API Hub
 > **Live at:** [apis.xwolf.space](https://apis.xwolf.space)
 
 A **developer API portal** hosting multiple free public endpoints for use in projects across the stack. Includes the Spotify data API, utility endpoints, and more — designed to reduce friction for developers who need reliable data sources without API key management.
 
 **Built for:** African developers · open-source projects · rapid prototyping
-
----
-
-### 🐺 [silentwolf](https://github.com/WOLFTECH-254/silentwolf) — WhatsApp Automation Framework
-> Also known as **WOLFBOT / Silent Wolf**
-
-A production-grade, open-source **WhatsApp automation framework** built on Node.js and Baileys. Modular, extensible, and community-ready — with 200+ commands covering AI assistants, group management, media downloaders, and games. Actively deployed across developer communities throughout Africa with 100+ forks.
-
-**Stack:** Node.js · Baileys · JavaScript · SQLite  
-**Traction:** ⭐ 86 stars · 🍴 112 forks · active deployments across Africa
-
-<p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
-</p>
 
 ---
 
