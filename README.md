@@ -89,7 +89,7 @@ A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-u
 
 ---
 
-### 🌐 wolfXapis Multi API Hub
+### 🌐 xwolf.space API Hub
 > **Live at:** [apis.xwolf.space](https://apis.xwolf.space)
 
 A **developer API portal** hosting multiple free public endpoints for use in projects across the stack. Includes the Spotify data API, utility endpoints, and more — designed to reduce friction for developers who need reliable data sources without API key management.
@@ -177,7 +177,7 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=darkhub&no-frame=false&no-bg=true&row=1&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
 </p>
 
 ---
