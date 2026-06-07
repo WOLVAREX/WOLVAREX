@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=WOLFTECH-254&fontSize=62&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Bot%20Engineer%20%7C%20Node.js%20Automation%20%7C%20Full-Stack%20Developer%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=15&descColor=9ca3af&fontFamily=monospace" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=WOLFTECH-254&fontSize=62&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Open%20Source%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=15&descColor=9ca3af&fontFamily=monospace" />
 </p>
 
 <p align="center">
@@ -11,60 +11,96 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Freelance-00ff00?style=flat-square&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Speciality-WhatsApp%20Bot%20Development-00ff00?style=flat-square&labelColor=000000&logo=whatsapp&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20APIs%20%7C%20Automation-00ff00?style=flat-square&labelColor=000000" />
 </p>
 
 ---
 
 ## 👤 Who I Am
 
-I'm **Briton Kiplangat** — a self-taught full-stack developer and WhatsApp bot engineer from 🇰🇪 Kenya. I specialize in building production-grade **WhatsApp automation systems**, scalable **Node.js backends**, and **Linux/VPS infrastructure** that powers real communities at scale.
+I'm **Briton Kiplangat** — founder of **WOLF TECH Kenya** and a self-taught full-stack engineer who turns curiosity into creation. I build production-grade **SaaS products**, **open-source developer tools**, **REST APIs**, and **automation systems** — shipped and running at scale across Africa.
 
-My open-source **WhatsApp bot framework** ([silentwolf](https://github.com/WOLFTECH-254/silentwolf)) has been forked **100+ times** and is actively deployed across developer communities throughout Africa. I don't just write code — I ship tools that get adopted.
+I don't build side projects. I build **products**: uptime monitors, hosting platforms, public APIs, bot frameworks, and infrastructure tooling — all deployed, live, and used by real developers.
 
-Beyond bots, I've built an entire developer ecosystem: a **Heroku-style hosting platform** with native **M-Pesa payment integration**, core database libraries, and complete documentation systems. I'm currently open to **junior developer roles**, **backend contracts**, and **freelance automation projects**.
+> *"Where curiosity meets creation."* — WOLF TECH Kenya
 
-> *"I build systems that work while you sleep."*
+**What I ship:**
+- 🛠️ SaaS platforms with real users and live payment integrations (M-Pesa / Paystack)
+- 🌐 Public REST APIs consumed by developers across Africa
+- 📡 Infrastructure tooling: VPS management, uptime monitoring, Nginx, PM2
+- 🤖 Automation systems: WhatsApp bots with 100+ forks, deployed across communities
+- ☁️ A Heroku-style hosting platform for Node.js applications
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Products & Projects
 
-### 🐺 [silentwolf](https://github.com/WOLFTECH-254/silentwolf) — Production-Grade WhatsApp Automation Bot
+### 🐺 [wolfXmonitor](https://github.com/WOLFTECH-254/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
+> **Live at:** [monitor.xwolf.space](https://monitor.xwolf.space)
 
-A fully-featured **open-source WhatsApp bot** built from scratch using **Node.js** and **Baileys** — the leading unofficial WhatsApp Web API library. `silentwolf` is not just a chatbot; it's a modular **WhatsApp automation framework** designed for extensibility, group management at scale, and real-world deployments.
+A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot, built in Kenya. Real-time health checks for websites and APIs, instant email alerts on downtime, and beautiful **public status pages** — all with Free and Pro plans powered by **Paystack + M-Pesa**.
 
-Built for developers who need a reliable, community-ready **WhatsApp bot MD** with minimal setup and maximum power.
+**Stack:** React · Node.js · PostgreSQL · Paystack  
+**Features:** Real-time monitoring · email alerts · public status pages · Free/Pro billing  
+**Focus:** SaaS architecture · payment integration · infrastructure tooling
+
+<p align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXmonitor&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+</p>
+
+---
+
+### 🎵 [wolfXspotify-API](https://github.com/WOLFTECH-254/wolfXspotify-API) — Free Public Spotify Data API
+> **Live at:** [spotify.xwolf.space](https://spotify.xwolf.space)
+
+A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-up required. Developers can query track info, artist data, and music metadata straight from a clean REST endpoint. Part of the broader **xwolf.space API ecosystem**.
+
+**Stack:** Node.js · Express  
+**Use case:** Music apps · bots · developer projects · no-auth data access  
+**Developer-first:** Zero friction, zero auth, just data.
+
+<p align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXspotify-API&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+</p>
+
+---
+
+### ☁️ wolfXnode — Heroku-Style Bot Hosting Platform
+> **Live at:** [host.xwolf.space](https://host.xwolf.space)
+
+A **fully custom cloud hosting platform** built for Node.js applications — specifically designed around the needs of WhatsApp bot developers and automation engineers in Africa. Deploy, manage, and scale bots without touching raw VPS configuration. Native **M-Pesa payment integration** for African users.
+
+**Stack:** Node.js · Linux / VPS · Nginx · PM2 · M-Pesa  
+**Focus:** PaaS architecture · billing systems · infrastructure automation
+
+---
+
+### 🌐 xwolf.space API Hub
+> **Live at:** [apis.xwolf.space](https://apis.xwolf.space)
+
+A **developer API portal** hosting multiple free public endpoints for use in projects across the stack. Includes the Spotify data API, utility endpoints, and more — designed to reduce friction for developers who need reliable data sources without API key management.
+
+**Built for:** African developers · open-source projects · rapid prototyping
+
+---
+
+### 🐺 [silentwolf](https://github.com/WOLFTECH-254/silentwolf) — WhatsApp Automation Framework
+> Also known as **WOLFBOT / Silent Wolf**
+
+A production-grade, open-source **WhatsApp automation framework** built on Node.js and Baileys. Modular, extensible, and community-ready — with 200+ commands covering AI assistants, group management, media downloaders, and games. Actively deployed across developer communities throughout Africa with 100+ forks.
+
+**Stack:** Node.js · Baileys · JavaScript · SQLite  
+**Traction:** ⭐ 86 stars · 🍴 112 forks · active deployments across Africa
 
 <p align="left">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
 </p>
 
-**Stack:** Node.js · Baileys · JavaScript · SQLite  
-**Capabilities:** AI assistants · group management · media downloaders · games · 200+ commands  
-**Traction:** ⭐ 86 stars · 🍴 112 forks · Active deployments across Africa
-
-> 🔗 **If you're building on Baileys or need a WhatsApp bot starter — this is your framework.**  
-> ⭐ Star it. 🍴 Fork it. Build on it.
-
 ---
 
-### 🐺 [silentwolf-1.1.6](https://github.com/WOLFTECH-254/silentwolf-1.1.6) — Stable Release Archive
+### 📚 [wolfxcore-docs](https://github.com/WOLFTECH-254/wolfxcore-docs) — Developer Documentation Platform
 
-The **stable 1.1.6 release** of the silentwolf framework — a snapshot of the production-ready version widely deployed across African developer communities. A reliable starting point for forks and custom builds.
-
-<p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf-1.1.6&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
-</p>
-
-**Stack:** Node.js · Baileys · JavaScript  
-**Traction:** ⭐ 12 stars · 🍴 14 forks
-
----
-
-### 📚 [wolfxcore-docs](https://github.com/WOLFTECH-254/wolfxcore-docs) — Developer Documentation
-
-Static documentation site for the **wolfXcore** hosting panel — built with a neon cyberpunk aesthetic and structured for developer clarity. A reference hub for the full WOLFTECH automation ecosystem.
+Static documentation site for the **wolfXcore** hosting panel — built with a neon cyberpunk aesthetic and structured for developer clarity. A reference hub for the full WOLFTECH ecosystem.
 
 <p align="left">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfxcore-docs&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
@@ -72,26 +108,31 @@ Static documentation site for the **wolfXcore** hosting panel — built with a n
 
 ---
 
-## 🧠 Developer Positioning
+## 🧠 Engineering Positioning
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  WOLFTECH-254 // Automation Systems Engineer             ║
-║──────────────────────────────────────────────────────────║
-║  ▸ WhatsApp Bot Architecture     [Baileys / Node.js]     ║
-║  ▸ Backend API Engineering       [Express / REST]        ║
-║  ▸ Linux / VPS Infrastructure    [Nginx / PM2]           ║
-║  ▸ Database Design               [PostgreSQL / SQLite]   ║
-║  ▸ Payment Integration           [M-Pesa API / Daraja]   ║
-║  ▸ Open Source Ecosystem         [100+ forks & growing]  ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  WOLFTECH-254 // Full-Stack Engineer & SaaS Builder          ║
+║────────────────────────────────────────────────────────────--║
+║  ▸ SaaS Product Development      [React / Node.js / PG]      ║
+║  ▸ REST API Design & Hosting     [Express / Open APIs]       ║
+║  ▸ Payment Integration           [M-Pesa / Paystack / Daraja]║
+║  ▸ Linux / VPS Infrastructure    [Nginx / PM2 / DevOps]      ║
+║  ▸ Database Engineering          [PostgreSQL / SQLite]        ║
+║  ▸ Automation Systems            [Baileys / Node.js]          ║
+║  ▸ Open Source Ecosystem         [100+ forks & growing]       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I operate at the intersection of **automation engineering**, **backend infrastructure**, and **developer tooling** — with a focus on real-world impact in African tech communities.
+I operate at the intersection of **product engineering**, **API infrastructure**, and **developer tooling** — with a focus on shipping real, useful software for African tech communities and beyond.
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
@@ -126,9 +167,9 @@ I operate at the intersection of **automation engineering**, **backend infrastru
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/M--Pesa%20API-000000?style=flat-square&logo=mpesa&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/Baileys-000000?style=flat-square&logo=whatsapp&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Bots-000000?style=flat-square&logo=whatsapp&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/M--Pesa%20%2F%20Daraja-000000?style=flat-square&logo=mpesa&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Paystack-000000?style=flat-square&logo=paystack&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=fastapi&logoColor=00ff00" />
 </p>
 
 ---
@@ -141,11 +182,26 @@ I operate at the intersection of **automation engineering**, **backend infrastru
 
 ---
 
-## 🔍 What I Build (Search Keywords)
+## 🔍 About WOLF TECH Kenya
+
+> **"We turn curiosity into creation."**
+
+**WOLF TECH Kenya** is an indie software studio founded by Briton Kiplangat — building open-source tools, SaaS products, and developer infrastructure for African and global developer communities. Our products run live at the **xwolf.space** ecosystem:
+
+| Product | URL | Description |
+|---|---|---|
+| 🐺 wolfXnode | [host.xwolf.space](https://host.xwolf.space) | Node.js app hosting platform |
+| 📡 wolfXmonitor | [monitor.xwolf.space](https://monitor.xwolf.space) | Uptime monitoring SaaS |
+| 🎵 wolfXspotify | [spotify.xwolf.space](https://spotify.xwolf.space) | Free Spotify music data API |
+| 🌐 xwolf APIs | [apis.xwolf.space](https://apis.xwolf.space) | Public developer API hub |
+
+---
+
+## 🔍 Search Keywords (SEO)
 
 > *This section helps developers and recruiters find this profile.*
 
-WhatsApp bot developer · WhatsApp automation bot · Baileys WhatsApp bot Node.js · open source WhatsApp bot · WhatsApp bot MD · chatbot automation system · Node.js WhatsApp bot GitHub · WhatsApp group management bot · WhatsApp bot framework · Kenya developer · African tech · M-Pesa integration · Node.js automation engineer · VPS hosting automation · backend engineer Kenya
+Full-stack developer Kenya · Node.js SaaS developer Africa · open source developer Kenya · uptime monitoring SaaS open source · free Spotify API Node.js · M-Pesa payment integration Node.js · Paystack integration Kenya · REST API developer Africa · VPS infrastructure engineer Kenya · Node.js hosting platform · WhatsApp bot framework Baileys · WhatsApp automation Node.js · backend engineer Kenya · React Node.js developer Kenya · PostgreSQL developer Africa · African tech open source · Nairobi software engineer · WOLF TECH Kenya · wolfXmonitor · silentwolf bot
 
 ---
 
@@ -153,10 +209,10 @@ WhatsApp bot developer · WhatsApp automation bot · Baileys WhatsApp bot Node.j
 
 I'm available for:
 
-- 🧩 **Freelance** — WhatsApp bot development, Node.js backends, automation systems
-- 💼 **Junior / Mid roles** — Backend engineering, automation, developer tooling
+- 🧩 **Freelance** — SaaS development, REST APIs, Node.js backends, automation systems, M-Pesa/Paystack integrations
+- 💼 **Junior / Mid roles** — Full-stack engineering, backend infrastructure, developer tooling
 - 🛠️ **Open source collaboration** — Contribute to or build on the WOLFTECH ecosystem
-- 🌍 **Africa-focused tech** — M-Pesa integrations, local-first automation products
+- 🌍 **Africa-focused tech** — M-Pesa / Daraja integrations, local-first products, African market solutions
 
 If you're building something real and need an engineer who ships — let's talk.
 
@@ -169,6 +225,15 @@ If you're building something real and need an engineer who ships — let's talk.
     <img src="https://img.shields.io/badge/wolfXnode%20Hosting-host.xwolf.space-00ff00?style=flat-square&logo=google-chrome&logoColor=00ff00&labelColor=000000" />
   </a>
   &nbsp;
+  <a href="https://monitor.xwolf.space">
+    <img src="https://img.shields.io/badge/wolfXmonitor-monitor.xwolf.space-00ff00?style=flat-square&logo=google-chrome&logoColor=00ff00&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://apis.xwolf.space">
+    <img src="https://img.shields.io/badge/API%20Hub-apis.xwolf.space-00ff00?style=flat-square&logo=fastapi&logoColor=00ff00&labelColor=000000" />
+  </a>
+</p>
+<p align="center">
   <a href="https://wa.me/254785471416">
     <img src="https://img.shields.io/badge/WhatsApp-%2B254785471416-00ff00?style=flat-square&logo=whatsapp&logoColor=00ff00&labelColor=000000" />
   </a>
@@ -183,7 +248,13 @@ If you're building something real and need an engineer who ships — let's talk.
 </p>
 
 <p align="center">
-  <sub>⭐ If my work has helped you, consider starring a repo — it helps more developers find these tools.</sub>
+  <a href="https://sponsor.xwolf.space">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-sponsor.xwolf.space-00ff00?style=flat-square&labelColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>⭐ If my work has helped you, consider starring a repo or <a href="https://sponsor.xwolf.space">buying me a coffee</a> — it keeps the builds shipping.</sub>
 </p>
 
 <p align="center">
