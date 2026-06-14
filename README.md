@@ -19,7 +19,7 @@
 ## 👤 Who I Am
 
 <p align="center">
-  <img src="https://i.ibb.co/PGzQmvLf/silentwolf.jpg" alt="Briton Kiplangat — WOLFTECH-254" width="150" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/PGzQmvLf/silentwolf.jpg" alt="Briton Kiplangat — WOLVAREX" width="150" style="border-radius: 50%;" />
 </p>
 
 I'm **Briton Kiplangat** — founder of **WOLF TECH** (a [WOLVAREX](https://wolvarex.co.ke) company) and a self-taught full-stack engineer who turns curiosity into creation. I build production-grade **SaaS products**, **open-source developer tools**, **REST APIs**, and **automation systems** — shipped and running at scale across Africa.
@@ -65,7 +65,7 @@ A **fully custom cloud hosting platform** built for Node.js applications — spe
 
 ---
 
-### 🐺 [silentwolf](https://github.com/WOLFTECH-254/silentwolf) — WOLFBOT / Silent Wolf WhatsApp Automation Framework
+### 🐺 [silentwolf](https://github.com/WOLVAREX/silentwolf) — WOLFBOT / Silent Wolf WhatsApp Automation Framework
 > **Pair site:** [pair.xwolf.space](https://pair.xwolf.space)
 
 A production-grade, open-source **WhatsApp automation framework** built on Node.js and Baileys. Modular, extensible, and community-ready — with 200+ commands covering AI assistants, group management, media downloaders, and games. Actively deployed across developer communities throughout Africa with 100+ forks.
@@ -74,12 +74,12 @@ A production-grade, open-source **WhatsApp automation framework** built on Node.
 **Traction:** ⭐ 86 stars · 🍴 112 forks · active deployments across Africa
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLVAREX&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
 </p>
 
 ---
 
-### 📡 [wolfXmonitor](https://github.com/WOLFTECH-254/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
+### 📡 [wolfXmonitor](https://github.com/WOLVAREX/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
 > **Live at:** [monitor.xwolf.space](https://monitor.xwolf.space)
 
 A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot, built in Kenya. Real-time health checks for websites and APIs, instant email alerts on downtime, and beautiful **public status pages** — all with Free and Pro plans powered by **Paystack + M-Pesa**.
@@ -89,12 +89,12 @@ A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot
 **Focus:** SaaS architecture · payment integration · infrastructure tooling
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXmonitor&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLVAREX&repo=wolfXmonitor&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
 </p>
 
 ---
 
-### 🎵 [wolfXspotify-API](https://github.com/WOLFTECH-254/wolfXspotify-API) — Free Public Spotify Data API
+### 🎵 [wolfXspotify-API](https://github.com/WOLVAREX/wolfXspotify-API) — Free Public Spotify Data API
 > **Live at:** [spotify.xwolf.space](https://spotify.xwolf.space)
 
 A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-up required. Developers can query track info, artist data, and music metadata straight from a clean REST endpoint. Part of the broader **xwolf.space API ecosystem**.
@@ -104,7 +104,7 @@ A **free, unlimited Spotify music data API** — no API key, no OAuth, no sign-u
 **Developer-first:** Zero friction, zero auth, just data.
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXspotify-API&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLVAREX&repo=wolfXspotify-API&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
 </p>
 
 ---
@@ -118,12 +118,12 @@ A **developer API portal** hosting multiple free public endpoints for use in pro
 
 ---
 
-### 📚 [wolfxcore-docs](https://github.com/WOLFTECH-254/wolfxcore-docs) — Developer Documentation Platform
+### 📚 [wolfxcore-docs](https://github.com/WOLVAREX/wolfxcore-docs) — Developer Documentation Platform
 
 Static documentation site for the **wolfXcore** hosting panel — built with a neon cyberpunk aesthetic and structured for developer clarity. A reference hub for the full WOLFTECH ecosystem.
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfxcore-docs&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLVAREX&repo=wolfxcore-docs&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
 </p>
 
 ---
@@ -132,7 +132,7 @@ Static documentation site for the **wolfXcore** hosting panel — built with a n
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  WOLFTECH-254 // Full-Stack Engineer & SaaS Builder          ║
+║  WOLVAREX // Full-Stack Engineer & SaaS Builder              ║
 ║  Powered by WOLF TECH · A WOLVAREX Company                   ║
 ║────────────────────────────────────────────────────────────--║
 ║  ▸ SaaS Product Development      [React / Node.js / PG]      ║
@@ -152,15 +152,15 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLVAREX&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WOLFTECH-254&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=WOLVAREX&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=6&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WOLVAREX&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=6&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages" />
 </p>
 
 ---
@@ -168,7 +168,7 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WOLVAREX&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -202,7 +202,7 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 ## 🌍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WOLFTECH-254&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WOLVAREX&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
