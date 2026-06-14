@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WOLFTECH-254">
-    <img src="https://img.shields.io/github/followers/WOLFTECH-254?color=00ff00&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00ff00" />
+  <a href="https://github.com/WOLVAREX">
+    <img src="https://img.shields.io/github/followers/WOLVAREX?color=00ff00&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00ff00" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=WOLFTECH-254&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=WOLVAREX&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Freelance-00ff00?style=flat-square&labelColor=000000" />
   &nbsp;
