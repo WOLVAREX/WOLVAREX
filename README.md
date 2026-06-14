@@ -270,7 +270,7 @@ If you're building something real and need an engineer who ships — let's talk.
   </a>
 </p>
 <p align="center">
-  <a href="https://wa.me/254785471416">
+  <a href="https://wa.me/254733961184">
     <img src="https://img.shields.io/badge/WhatsApp-%2B254785471416-00ff00?style=flat-square&logo=whatsapp&logoColor=00ff00&labelColor=000000" />
   </a>
   &nbsp;
